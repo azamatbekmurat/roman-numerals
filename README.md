@@ -6,7 +6,15 @@
 
 ## Description
 
-__
+* Checks whether input is number or not
+* Converts just numbers bigger than "0", less than 3999
+* Converts just integers
+* Converts 1-5
+* Converts 5-10
+* Converts 10-100
+* Converts 100-1000
+* Converts 1000-3999
+
 
 ## Setup/Installation Requirements
 
