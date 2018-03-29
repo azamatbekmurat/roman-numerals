@@ -79,6 +79,7 @@ function forThousands(thousands) {
 
 $(document).ready(function() {
   $("form#roman").submit(function(event) {
+    outputRoman = "";
     event.preventDefault();
 
     var inputNumber = parseInt($("#number").val());
