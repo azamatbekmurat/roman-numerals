@@ -28,7 +28,6 @@ function forTens(tens) {
     outputRoman= outputRoman + "X";
   } else if (tens===2) {
     outputRoman= outputRoman + "XX";
-    alert("tens function works");
   } else if (tens===3) {
     outputRoman= outputRoman + "XXX";
   } else if (tens===4) {
