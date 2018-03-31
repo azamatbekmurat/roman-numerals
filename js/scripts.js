@@ -1,4 +1,4 @@
-
+//business logic
 var outputRoman="";
 
 function single(remainder) {
@@ -77,6 +77,7 @@ function forThousands(thousands) {
   }
 }
 
+//user interface logic
 $(document).ready(function() {
   $("form#roman").submit(function(event) {
     outputRoman = "";

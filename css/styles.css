@@ -7,7 +7,7 @@
   font-size: 25px;
 }
 
-.output {
+#output1, #output2 {
   text-decoration: underline;
   color: green;
   font-weight: bold;
